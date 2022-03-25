@@ -12,7 +12,7 @@ module.exports = {
   author: 'Manghe',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: '一个产品经理的成长记录',
   socialImageTitle: 'Mangheweb',
   socialImageSubtitle: 'Hello World! 👋',
 
